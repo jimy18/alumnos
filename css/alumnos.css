@@ -1,0 +1,23 @@
+body{
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  font-family: arial;
+}
+input{
+  background-color: gray;
+}
+table, td, th {
+  border: 1px solid blue;
+}
+#name{text-transform: uppercase;}
+#reporte
+{
+  border-style: dotted;
+  border-width: 4px;
+  margin-left:300px;
+  margin-right:200px;
+  text-transform:capitalize;
+  color: blue;
+  font-weight: bold;
+}
